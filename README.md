@@ -25,6 +25,5 @@ raspberry pi camera python
 알FTP 다운로드
 (http://modangs.tistory.com/945)
 
-raspberry pi gpio
-
-https://github.com/sonnonet/iTop/blob/master/gpio.png
+raspberry pi gpio핀
+(https://github.com/sonnonet/iTop/blob/master/gpio.png)
