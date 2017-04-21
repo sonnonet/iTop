@@ -26,4 +26,4 @@ raspberry pi camera python
 (http://modangs.tistory.com/945)
 
 raspberry pi gpio핀
-https://github.com/sonnonet/iTop/blob/master/gpio.png
+![connection](https://github.com/sonnonet/iTop/blob/master/gpio.png)
