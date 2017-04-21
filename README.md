@@ -25,4 +25,5 @@ raspberry pi camera python
 알FTP 다운로드
 (http://modangs.tistory.com/945)
 
-raspberry
+raspberry pi gpio
+
