@@ -27,4 +27,4 @@ raspberry pi camera python
 
 raspberry pi gpio핀
 ![connection](https://github.com/sonnonet/iTop/blob/master/gpio.png)
-사용법 : 
+사용법 : d
